@@ -32,7 +32,7 @@ Base URL: `http://henglisoft.oss-cn-hongkong.aliyuncs.com/Mstar/7T10E/WIWA/`
 ##### WIWA H265 LITE-2
 * [V5.2.1.56](fw/upgrade_7T10E_HW2.1.RC20.4.3U_WIWA_PRO_V5.2.1.56.bin)
 
-##### WIWA H265 MINI
+##### WIWA H265 MINI
 * [V5.2.1.56](fw/upgrade_7T10E_HW2.1.RC20.4.4U_WIWA_MINI_V5.2.1.56.bin)
 
 ##### WIWA H265 MAXX (NEW)
@@ -40,11 +40,11 @@ Base URL: `http://henglisoft.oss-cn-hongkong.aliyuncs.com/Mstar/7T10E/WIWA/`
 * [V5.2.1.47](fw/upgrade_7T10E_HW2.1.RC20.4.7U_WIWA_MAXX_V5.2.1.47.bin)
 * [V5.2.1.47](fw/upgrade_7T10E_HW2.1.RC20.4.7U_WIWA_MAXX_V5.2.1.56.bin)
 
-##### WIWA H265 MINI LED
+##### WIWA H265 MINI LED
 * [V5.2.1.47](fw/upgrade_7T10E_HW2.1.RC20.4.8U_WIWA_MINI_LED_V5.2.1.47.bin)
 * [V5.2.1.47](fw/upgrade_7T10E_HW2.1.RC20.4.8U_WIWA_MINI_LED_V5.2.1.56.bin)
  
-##### WIWA H265 LITE-2 
+##### WIWA H265 LITE-2 
 * [V5.2.1.47](fw/upgrade_7T10E_HW2.1.RC20.4.22U_WIWA_LITE_V5.2.1.47.bin)
 * [V5.2.1.56](fw/upgrade_7T10E_HW2.1.RC20.4.22U_WIWA_LITE_V5.2.1.56.bin)
 
