@@ -6,6 +6,7 @@ Base URL: `http://henglisoft.oss-cn-hongkong.aliyuncs.com/Mstar/7T10E/WIWA/`
 
 | Model              | Address |
 | -----              | ------- |
+
 | WIWA H265 (MAXX)   | [upgrade_setting_HW2.1.RC20.4.1U.xml](http://henglisoft.oss-cn-hongkong.aliyuncs.com/Mstar/7T10E/WIWA/upgrade_setting_HW2.1.RC20.4.1U.xml)   |
 | WIWA H265 LITE     | [upgrade_setting_HW2.1.RC20.4.2U.xml](http://henglisoft.oss-cn-hongkong.aliyuncs.com/Mstar/7T10E/WIWA/upgrade_setting_HW2.1.RC20.4.2U.xml)   |
 | WIWA H265 PRO      | [upgrade_setting_HW2.1.RC20.4.3U.xml](http://henglisoft.oss-cn-hongkong.aliyuncs.com/Mstar/7T10E/WIWA/upgrade_setting_HW2.1.RC20.4.3U.xml)   |
@@ -13,8 +14,7 @@ Base URL: `http://henglisoft.oss-cn-hongkong.aliyuncs.com/Mstar/7T10E/WIWA/`
 | WIWA H265 MAXX NEW | [upgrade_setting_HW2.1.RC20.4.7U.xml](http://henglisoft.oss-cn-hongkong.aliyuncs.com/Mstar/7T10E/WIWA/upgrade_setting_HW2.1.RC20.4.7U.xml)   |
 | WIWA H265 MINI LED | [upgrade_setting_HW2.1.RC20.4.8U.xml](http://henglisoft.oss-cn-hongkong.aliyuncs.com/Mstar/7T10E/WIWA/upgrade_setting_HW2.1.RC20.4.8U.xml)   |
 | WIWA H265 LITE-2   | [upgrade_setting_HW2.1.RC20.4.22U.xml](http://henglisoft.oss-cn-hongkong.aliyuncs.com/Mstar/7T10E/WIWA/upgrade_setting_HW2.1.RC20.4.22U.xml) |
-
-
+| WIWA H265 MAXX     | [upgrade_setting_HW3.1.RC20.4.1U.xml](http://henglisoft.oss-cn-hongkong.aliyuncs.com/Mstar/7T31E/WIWA/upgrade_setting_HW3.1.RC20.4.1U.xml)   |
 
 ## Firmware files
 
@@ -47,5 +47,8 @@ Base URL: `http://henglisoft.oss-cn-hongkong.aliyuncs.com/Mstar/7T10E/WIWA/`
 ##### WIWA H265 LITE-2 
 * [V5.2.1.47](fw/upgrade_7T10E_HW2.1.RC20.4.22U_WIWA_LITE_V5.2.1.47.bin)
 * [V5.2.1.56](fw/upgrade_7T10E_HW2.1.RC20.4.22U_WIWA_LITE_V5.2.1.56.bin)
+
+##### WIWA H265 MAXX 
+* [5.2.1.57](http://henglisoft.oss-cn-hongkong.aliyuncs.com/Mstar/7T31E/WIWA/upgrade_7T31E_HW3.1.RC20.4.1U_WIWA_V5.2.1.57.bin)
 
 
